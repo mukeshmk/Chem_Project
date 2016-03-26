@@ -1,26 +1,30 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Agency](http://startbootstrap.com/template-overviews/agency/)
+# Alternate Sources and Energy
+Chemistry Project for 6th Sem.
 
-[Agency](http://startbootstrap.com/template-overviews/agency/) is a one page agency portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, a responsive timeline, and a working PHP contact form.
+This gives us an insight on what are the different sources of energy present and what are the alternatives available in the current era.
 
-## Getting Started
+If you want to check it out, here's what you would need to do.
 
-To use this theme, choose one of the following options to get started:
-* Download the latest release on Start Bootstrap
-* Fork this repository on GitHub
+(NOTE: Make sure you retain the default password for root !!)
 
-## Bugs and Issues
+1.  Download "wampserver" from http://www.wampserver.com/en/
 
-Have a bug or an issue with this theme? [Open a new issue](https://github.com/IronSummitMedia/startbootstrap-agency/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/agency/).
+2.  Install it and start the server.
 
-## Creator
+3.  Now get this repo here:-
 
-Start Bootstrap was created by and is maintained by **David Miller**, Managing Partner at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
+    i. Go to the location where wampserver is installed. Usually it's in your C Drive itself, named as "wamp". In that case             clone it here:
 
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
+        C:\wamp\www
 
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+    ii.Go to the location where wampserver is installed And clone it here:-
 
-## Copyright and License
+        ...\wamp\www
 
-Copyright 2013-2015 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-agency/blob/gh-pages/LICENSE) license.
+4.  Now open your browser and in the link bar type:- localhost/Our_Note/ (make sure you have started the server)
+
+5.  Now try it out.
+
+6.  Do report if there are any bugs or any improvements are to be made.
+
+Thank You
