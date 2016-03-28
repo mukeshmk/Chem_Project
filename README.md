@@ -5,11 +5,11 @@ This gives us an insight on what are the different sources of energy present and
 
 If you want to check it out, here's what you would need to do.
 
-(NOTE: Make sure you retain the default password for root !!)
-
 1.  Download "wampserver" from http://www.wampserver.com/en/
 
 2.  Install it and start the server.
+
+    (NOTE: Make sure you retain the default password for root !!)
 
 3.  Now get this repo here:-
 
@@ -21,7 +21,7 @@ If you want to check it out, here's what you would need to do.
 
         ...\wamp\www
 
-4.  Now open your browser and in the link bar type:- localhost/Our_Note/ (make sure you have started the server)
+4.  Now open your browser and in the link bar type:- localhost/Chem_Project/ (make sure you have started the server)
 
 5.  Now try it out.
 
